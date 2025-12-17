@@ -1,0 +1,15 @@
+/home/swapnil/CSHARP/C# Concept Program/Project1/EmployeeManagementSystem/bin/Debug/net10.0/EmployeeManagementSystem
+/home/swapnil/CSHARP/C# Concept Program/Project1/EmployeeManagementSystem/bin/Debug/net10.0/EmployeeManagementSystem.deps.json
+/home/swapnil/CSHARP/C# Concept Program/Project1/EmployeeManagementSystem/bin/Debug/net10.0/EmployeeManagementSystem.runtimeconfig.json
+/home/swapnil/CSHARP/C# Concept Program/Project1/EmployeeManagementSystem/bin/Debug/net10.0/EmployeeManagementSystem.dll
+/home/swapnil/CSHARP/C# Concept Program/Project1/EmployeeManagementSystem/bin/Debug/net10.0/EmployeeManagementSystem.pdb
+/home/swapnil/CSHARP/C# Concept Program/Project1/EmployeeManagementSystem/obj/Debug/net10.0/EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/swapnil/CSHARP/C# Concept Program/Project1/EmployeeManagementSystem/obj/Debug/net10.0/EmployeeManagementSystem.AssemblyInfoInputs.cache
+/home/swapnil/CSHARP/C# Concept Program/Project1/EmployeeManagementSystem/obj/Debug/net10.0/EmployeeManagementSystem.AssemblyInfo.cs
+/home/swapnil/CSHARP/C# Concept Program/Project1/EmployeeManagementSystem/obj/Debug/net10.0/EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+/home/swapnil/CSHARP/C# Concept Program/Project1/EmployeeManagementSystem/obj/Debug/net10.0/EmployeeManagementSystem.sourcelink.json
+/home/swapnil/CSHARP/C# Concept Program/Project1/EmployeeManagementSystem/obj/Debug/net10.0/EmployeeManagementSystem.dll
+/home/swapnil/CSHARP/C# Concept Program/Project1/EmployeeManagementSystem/obj/Debug/net10.0/refint/EmployeeManagementSystem.dll
+/home/swapnil/CSHARP/C# Concept Program/Project1/EmployeeManagementSystem/obj/Debug/net10.0/EmployeeManagementSystem.pdb
+/home/swapnil/CSHARP/C# Concept Program/Project1/EmployeeManagementSystem/obj/Debug/net10.0/EmployeeManagementSystem.genruntimeconfig.cache
+/home/swapnil/CSHARP/C# Concept Program/Project1/EmployeeManagementSystem/obj/Debug/net10.0/ref/EmployeeManagementSystem.dll

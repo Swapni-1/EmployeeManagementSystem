@@ -1,15 +1,22 @@
 namespace EmployeeManagementSystem.Utilities
 {
-    public static class SalaryValidation
+    public static class InputValidator
     {
-        public static bool CheckNegative(decimal salary)
+        public static decimal GetValidatedSalary(decimal minSalary = 0)
         {
-            if (salary < 0)
+            while (true)
             {
-                return true;
-            }
+                Console.Write("Enter Salary : ");
+                string salary = Console.ReadLine();
+                
+                if (decimal.TryParse(salary, out decimal result) && result > minSalary)
+                {
+                    return result;
+                }
+                
+                Console.WriteLine($"Error : Please enter valid salary and salary must greater than {minSalary}");
 
-            return false;
+            }
         }
     }
 }

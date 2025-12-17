@@ -2,13 +2,15 @@ using EmployeeManagementSystem.Models;
 
 namespace EmployeeManagementSystem.Utilities
 {
-    public static class Calculate
+    public class Calculate
     {
-        public static Aggregates CalculateAggregates(List<Employee> employees,Aggregates aggregates)
+        public static Aggregates Aggregates(List<Employee> employees)
         {
             decimal sumOfSalaries = 0;
-            decimal maximumSalary = 0;
-            decimal minimumSalary = 0;
+            decimal maximumSalary = decimal.MinValue;
+            decimal minimumSalary = decimal.MaxValue;
+            
+            Aggregates aggregates = new Aggregates();
             
             foreach (var employee in employees)
             {

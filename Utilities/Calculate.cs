@@ -19,9 +19,7 @@ namespace EmployeeManagementSystem.Utilities
                 if (employee.Salary > maximumSalary)
                 {
                     maximumSalary = employee.Salary;
-                }
-
-                if (employee.Salary < minimumSalary)
+                }else if (employee.Salary < minimumSalary)
                 {
                     minimumSalary = employee.Salary;
                 }

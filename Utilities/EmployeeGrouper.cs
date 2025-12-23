@@ -28,7 +28,7 @@ namespace EmployeeManagementSystem.Utilities
             {
                 if (!group.ContainsKey(employee.Department.ToString()))
                 {
-                    group[employee.Department.ToString()].Add(employee);
+                    group[employee.Department.ToString()] = new List<Employee>();
                 }
                 group[employee.Department.ToString()].Add(employee);
             }
